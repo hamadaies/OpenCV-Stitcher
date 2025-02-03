@@ -1,4 +1,4 @@
-# panoramas-image-stitching
+
 
 ## Usage
 
